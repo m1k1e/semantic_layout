@@ -99,28 +99,14 @@ Rizor Hovertrax 4.0 получил относительно небольшие, 
 
 
 
-<nav class="main-nav">
-            <a href="#"><img src="img/logo.png" alt="Логотип компании Rizor"></a>
-            <ul class="nav-list">
-                <li class="nav-list-item"><a href="#">Преимущества</a></li>
-                <li class="nav-list-item"><a href="#">Характеристики</a></li>
-                <li class="nav-list-item"><a href="#">Отзывы</a></li>
-                <li class="nav-list-item"><a href="#">Сравнение моделей</a></li>
-            </ul>
-</nav>
 
 
 
 
-<h1 class="hidden-text">Обзор новой модели гироскутеров от компании «Rizor»</h1>
-        <section class="promo">
-           <h2>Rizor Hovertrax 4.0</h2>
-           
-        </section>
-        <section class="advanteges">
-           <h2>Преимущества</h2>
 
-        </section>
+
+        
+        
         <section class="features">
            <h2>Характеристики</h2>
 
@@ -151,12 +137,4 @@ Rizor Hovertrax 4.0 получил относительно небольшие, 
 
 
 
-    <header class="main-header">
-        
-    </header>
-    <main>
-        
-    </main>
-    <footer class="main-footer">
-        
-    </footer>
+    
