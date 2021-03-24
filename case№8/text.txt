@@ -107,10 +107,7 @@ Rizor Hovertrax 4.0 получил относительно небольшие, 
 
         
         
-        <section class="features">
-           <h2>Характеристики</h2>
-
-        </section>
+        
         <section class="for_whom">
            <h2>Для кого</h2>
 
