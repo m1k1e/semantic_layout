@@ -99,26 +99,4 @@ Rizor Hovertrax 4.0 получил относительно небольшие, 
 
 
 
-
-
-
-
-
-
-        
-        
-        
-        
-       
-        <section class="models_comparison">
-           <h2>Сравнение моделей</h2>
-
-        </section>
-
-
-<p class="copyright">© Все права защищены, 2017</p>
-
-
-
-
     
