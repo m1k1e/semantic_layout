@@ -22,9 +22,9 @@
       <section class="advantages">
         <h2 class="hidden-text">Преимущества обучения на курсе</h2>
         <ul class="advantages-list">
-            <li>Быстро <span>вольёшься в нишу интернет продаж</span></li>
-            <li>Овладеешь <span>наиболее выгодной и востребованной профессией 2016 года</span></li>
-            <li>Зарабатывай <span>деньги в любой точке мира</span></li>
+            <li><span>Быстро</span>вольёшься в нишу интернет продаж</li>
+            <li><span>Овладеешь</span>наиболее выгодной и востребованной профессией 2016 года</li>
+            <li><span>Зарабатывай</span>деньги в любой точке мира</li>
         </ul>
       </section>
       <section class="author_info">
@@ -90,17 +90,31 @@
       <section class="feedback_form">
           <h2>Скачай видеокурс сейчас <span>и получи крутые бонусы </span>совершенно бесплатно!</h2>
           <p>Предложение ограничено! Успей!</p>
-              0       дней
-              9       часов
-              34      минут
-              11      секунд
+          <div class="countdown">
+            <div class="countdown-number">
+              <span class="days countdown-time">0</span>
+              <span class="countdown-text">дней</span>
+            </div>
+            <div class="countdown-number">
+              <span class="hours countdown-time">9</span>
+              <span class="countdown-text">часов</span>
+            </div>
+            <div class="countdown-number">
+              <span class="minutes countdown-time">34</span>
+              <span class="countdown-text">минут</span>
+            </div>
+            <div class="countdown-number">
+              <span class="seconds countdown-time">11</span>
+              <span class="countdown-text">секунд</span>
+            </div>
+          </div>
           <form action="#" method="POST" id="for_feedback">
-              <label class="hidden-text" for="user_name">Имя</label>
-              <input type="text" name="user_name" placeholder="Введите Ваше имя">
-              <label class="hidden-text" for="user_email">e-mail</label>
-              <input type="email" name="user_email" placeholder="Введите ваш e-mail">
+              <label class="hidden-text" for="user_name">Введите Ваше имя</label>
+              <input type="text" id="user_name" class="username" placeholder="Введите Ваше имя">
+              <label class="hidden-text" for="user_email">Введите ваш e-mail</label>
+              <input type="email" id="user_email" class="useremail" placeholder="Введите ваш e-mail">
               <label for="user_agreement">Даю согласие на обработку моих персональных данных</label>
-              <input type="checkbox" name="user_agreement" checked">
+              <input type="checkbox" id="user_agreement" name="useragreemant" checked>
               <button type="button">Скачать видео курс</button>
           </form>
       </section>
